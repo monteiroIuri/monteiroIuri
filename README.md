@@ -13,7 +13,7 @@
   <img align="center" alt="Iuri-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Iuri-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Iuri-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="right" alt="Iuri-Gif" height="170" width="170" src="https://i.picasion.com/pic91/9e5837be3b00a50bc5d418a89fddec1a.gif">
+  <img align="right" alt="Iuri-Gif" height="150" width="150" src="https://i.picasion.com/pic91/9e5837be3b00a50bc5d418a89fddec1a.gif">
 </div>
     
  ##
